@@ -1,0 +1,6 @@
+telethon
+tqdm
+nest_asyncio
+ffmpeg_python
+py7zr
+Pillow
