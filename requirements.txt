@@ -1,6 +1,6 @@
-telethon
-tqdm
-nest_asyncio
-ffmpeg_python
-py7zr
-Pillow
+telethon==1.42.0
+tqdm==4.67.1
+nest_asyncio==1.6.0
+ffmpeg_python==0.2.0
+py7zr==1.1.0
+Pillow==11.3.0
